@@ -1,0 +1,8 @@
+{
+  "name": "Remix: NIKESH: APEX",
+  "description": "Stunning promotional launchpad for NIKESH: APEX PREDATOR car racing game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
